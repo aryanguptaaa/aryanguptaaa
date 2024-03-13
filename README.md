@@ -9,7 +9,7 @@
  I’m currently working on Full Stack Development.<br><br>🌱 I’m currently learning Competitive coding.<br><br>I’m interested in Data Structures and Algorithms<br><br>📫 How to reach me aryangupta8910@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-gupta-410ab2232/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanguptaaa/) 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=aryanguptaaa)
